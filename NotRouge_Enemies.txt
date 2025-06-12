@@ -1,0 +1,62 @@
+# Each line represents an enemy. Fields are separated by '|'.
+# Format: name|health|attack|defense|gold_drop|exp_drop
+
+Goblin|50|10|2|10|20
+Orc|70|15|5|20|35
+Slime|30|7|0|5|10
+Wolf|60|12|3|15|25
+Skeleton Archer|55|13|4|18|30
+Giant Spider|65|11|3|12|28
+Bandit|80|17|6|25|40
+Dire Wolf|75|18|4|22|38
+Zombie|45|9|1|8|15
+Cave Bat|35|8|0|7|12
+Stone Golem|150|25|15|50|100
+Dark Elf Rogue|90|20|7|30|50
+Gnoll Warrior|85|16|6|28|45
+Harpy|60|14|2|18|32
+Ogre|120|22|10|40|70
+Imp|25|6|0|5|8
+Wight|100|19|8|35|60
+Fire Elemental|110|21|9|38|65
+Ice Elemental|115|20|11|40|68
+Earth Elemental|130|23|12|45|75
+Shadow Lurker|70|16|5|20|30
+Venomous Snake|40|9|1|8|15
+Berserker Orc|95|25|5|32|55
+Elder Goblin|60|12|3|15|28
+Frost Troll|140|28|14|48|90
+Swamp Monster|105|18|7|33|58
+Goblin Shaman|55|11|3|12|25
+Ghost|80|15|7|28|48
+Minotaur|160|30|18|60|120
+Dragon Whelp|130|24|13|55|95
+Giant Ant|50|10|3|10|20
+Carrion Crawler|90|17|6|27|42
+Specter|75|14|6|25|40
+Griffin|110|20|9|37|62
+Basilisk|125|26|15|52|88
+Manticore|135|27|16|58|98
+Vampire|145|29|17|65|110
+Werewolf|100|23|8|36|63
+Gargoyle|95|20|10|34|59
+Abominable Snowman|170|32|20|70|130
+Dark Knight|180|35|22|75|140
+Lich|160|30|15|68|125
+Wyvern|150|28|14|62|105
+Gnome Trickster|40|10|1|10|18
+Hobgoblin Sergeant|85|17|7|26|44
+Goblin King|120|20|8|45|80
+Giant Worm|110|18|9|30|50
+Stonewalker|90|20|12|35|60
+Forest Spirit|70|15|4|20|30
+Deep One|100|22|10|40|70
+Shadow Beast|120|25|13|50|85
+Crystal Spider|70|13|5|25|40
+Dust Devil|40|8|0|10|15
+Desert Scorpion|60|11|3|15|28
+Sandworm|140|26|16|55|95
+Frost Giant|200|38|25|80|150
+Fire Giant|210|40|26|85|160
+Storm Giant|220|42|27|90|170
+Ancient Dragon|300|50|30|150|200

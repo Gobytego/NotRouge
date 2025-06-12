@@ -1,0 +1,68 @@
+# Each line represents an item. Fields are separated by '|'.
+# Format: name|item_type|cost|attack_bonus|defense_bonus|health_bonus|heal_amount
+# For bonuses/healing, use 0 if none.
+# item_type can be: weapon, armor, accessory, consumable
+
+Rusty Sword|weapon|50|10|0|0|0
+Leather Armor|armor|75|0|5|0|0
+Healing Potion|consumable|20|0|0|0|50
+Iron Helmet|armor|120|0|8|0|0
+Dagger of Swiftness|weapon|90|7|0|0|0
+Ring of Health|accessory|150|0|0|20|0
+Steel Broadsword|weapon|180|15|0|0|0
+Chainmail Armor|armor|220|0|12|0|0
+Minor Healing Potion|consumable|10|0|0|0|25
+Iron Shield|armor|100|0|6|0|0
+Amulet of Protection|accessory|200|0|3|10|0
+Great Axe|weapon|250|20|0|0|0
+Plate Armor|armor|350|0|18|0|0
+Greater Healing Potion|consumable|50|0|0|0|100
+Magic Staff|weapon|300|12|0|0|0
+Cloak of Shadows|armor|160|0|7|0|0
+Ring of Power|accessory|280|5|5|0|0
+Elven Bow|weapon|200|13|0|0|0
+Studded Leather|armor|140|0|9|0|0
+Mana Potion|consumable|30|0|0|0|0 # Placeholder for future mana system
+Orb of Wisdom|accessory|320|0|0|15|0
+Claymore|weapon|320|22|0|0|0
+Scale Mail|armor|280|0|15|0|0
+Super Healing Potion|consumable|80|0|0|0|150
+War Hammer|weapon|280|18|0|0|0
+Mithril Chainmail|armor|450|0|25|0|0
+Dragonfang Dagger|weapon|400|25|0|0|0
+Phoenix Feather|consumable|100|0|0|0|200
+Legendary Sword|weapon|500|30|0|0|0
+Holy Armor|armor|600|0|30|0|0
+Ancient Ring|accessory|450|7|7|30|0
+Poisoned Shiv|weapon|70|8|0|0|0
+Spiked Club|weapon|60|9|0|0|0
+Crude Shield|armor|40|0|3|0|0
+Woven Robe|armor|30|0|2|0|0
+Lucky Charm|accessory|80|0|0|5|0
+Bandage|consumable|5|0|0|0|10
+Hunter's Bow|weapon|120|10|0|0|0
+Bone Armor|armor|90|0|7|0|0
+Goblin Dagger|weapon|30|5|0|0|0
+Stone Club|weapon|45|7|0|0|0
+Wooden Shield|armor|25|0|2|0|0
+Rough Tunic|armor|20|0|1|0|0
+Copper Ring|accessory|50|0|0|3|0
+Small Potion|consumable|15|0|0|0|30
+Longsword|weapon|150|12|0|0|0
+Splint Mail|armor|200|0|10|0|0
+Gauntlets of Strength|accessory|170|8|0|0|0
+Boots of Agility|accessory|160|0|0|0|0 # Consider adding agility/speed later
+Cap of Stealth|armor|130|0|4|0|0
+Health Vial|consumable|40|0|0|0|70
+Battle Axe|weapon|210|16|0|0|0
+Gothic Plate|armor|400|0|20|0|0
+Orb of Protection|accessory|250|0|10|0|0
+Vial of Anti-Venom|consumable|25|0|0|0|0 # Consider adding status effects later
+Short Bow|weapon|80|7|0|0|0
+Hardened Leather|armor|110|0|7|0|0
+Shiny Ring|accessory|100|2|2|0|0
+Mystic Brew|consumable|60|0|0|0|120
+Obsidian Blade|weapon|380|28|0|0|0
+Shadow Weave Armor|armor|300|0|16|0|0
+Tome of Healing|consumable|70|0|0|0|140
+Crown of Kings|accessory|500|10|10|50|0
